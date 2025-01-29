@@ -4,17 +4,6 @@ Bem-vindo ao meu repositório de estudos em Python! 🚀 Aqui você encontrará 
 ## 📌 Sobre este repositório
 Este repositório tem como objetivo armazenar e compartilhar meus estudos em Python, facilitando o aprendizado para outras pessoas que também desejam explorar a linguagem. Os códigos são organizados por tópicos e incluem explicações para melhor compreensão.
 
-## 📂 Estrutura do Repositório
-
-📁 estudos-python/
-│── 📂 fundamentos/         # Conceitos básicos da linguagem
-│── 📂 estruturas-de-dados/ # Listas, tuplas, dicionários, etc.
-│── 📂 algoritmos/          # Implementação de algoritmosclássicos
-│── 📂 POO/                 # Programação Orientada a Objetos em Python
-│── 📂 bibliotecas/         # Uso de bibliotecas populares (NumPy, Pandas, etc.)
-│── 📂 projetos/            # Pequenos projetos práticos
-└── README.md               # Documentação do repositório
-
 ## 🚀 Como Usar
 ### Clone o repositório para sua máquina:
 ```http
